@@ -14,6 +14,7 @@ The world has too many unanswered questions and challenges to leave this critica
 
 💬 Ask me about data in general. i.e. How might we explore large challeges like climate change / education with data? No question is a dumb question.
 
+https://img.shields.io/badge/stack-python%2C%20numpy%2C%20pandas%2C%20spark%2C%20sk--learn-blue
 [![Visits Badge](https://badges.pufler.dev/visits/austenmyers/austenmyers)](https://badges.pufler.dev)
 <!--
 **austenmyers/austenmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
