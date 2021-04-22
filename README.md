@@ -1,7 +1,7 @@
-### Hi there 👋
-##### I’m a data scientist trying to make sense of our data pollution.
+## Hi there 👋
+### I’m a data scientist trying to make sense of our data pollution.
 
-##### Why data science?
+### Why data science?
 The world has too many unanswered questions and challenges to leave this critical reasoning to only a few specialists. All educated members of society can build the tool set to reason about data.
 
 - 🔭 I’m currently working at Homer Learning, where we are trying to improve early learning outcomes for children with our mobile applications.
