@@ -15,7 +15,7 @@ The world has too many unanswered questions and challenges to leave this critica
   - [DATA8 from Berkeley](https://inferentialthinking.com/index.html) 🔄
   - [DATA100 from Berkeley](https://ds100.org/) ➡️
   
-  Key: ➡️: To Do 🔄: In progress ✅: Completed
+  Key:  ➡️: To Do  🔄: In progress  ✅: Completed
   
 🤔 I’m looking for help with general data science tools and utlities that make pre processing and data transformations easier.
 
