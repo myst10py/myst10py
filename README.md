@@ -10,8 +10,15 @@ The world has too many unanswered questions and challenges to leave this critica
 
 🔭 I’m currently working at Homer Learning, where we are trying to improve early learning outcomes for children with our mobile applications.
 
-🌱 I’m currently learning how to modularize and reuse my ds/ml tasks.
-
+🌱 I’m currently learning:
+  - how to modularize and reuse my ds/ml tasks. 🔄
+  - [DATA8 from Berkeley](https://inferentialthinking.com/index.html) 🔄
+  - [DATA100 from Berkeley](https://ds100.org/) ➡️
+  - Key:
+    - ➡️: To Do
+    - 🔄: In progress
+    - ✅: Completed
+  
 🤔 I’m looking for help with general data science tools and utlities that make pre processing and data transformations easier.
 
 💬 Ask me about data in general. i.e. How might we explore large challeges like climate change / education with data? No question is a dumb question.
