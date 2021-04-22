@@ -14,7 +14,7 @@ The world has too many unanswered questions and challenges to leave this critica
   - how to modularize and reuse my ds/ml tasks. 🔄
   - [DATA8 from Berkeley](https://inferentialthinking.com/index.html) 🔄
   - [DATA100 from Berkeley](https://ds100.org/) ➡️
-  - Key:
+  Key:
     - ➡️: To Do
     - 🔄: In progress
     - ✅: Completed
