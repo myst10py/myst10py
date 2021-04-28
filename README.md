@@ -27,6 +27,9 @@ The world has too many unanswered questions and challenges to leave this critica
 ![stack](https://img.shields.io/badge/stack-python%2C%20numpy%2C%20pandas%2C%20spark%2C%20sk--learn-blue)
 
 [![Visits Badge](https://badges.pufler.dev/visits/austenmyers/austenmyers)](https://badges.pufler.dev)
+
+<a href="https://www.buymeacoffee.com/austenmyers"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a yerba mate&emoji=🍵&slug=austenmyers&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+
 <!--
 **austenmyers/austenmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
