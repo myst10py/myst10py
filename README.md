@@ -1,5 +1,4 @@
-# 👋
-### I’m a data scientist trying to make sense of our data pollution.
+### 👋 I’m a data scientist trying to make sense of our data pollution.
 
 ###  :key: Why data science?
 The world has too many unanswered questions and challenges to leave this critical reasoning to only a few specialists. All educated members of society can build the tool set to reason about data.
