@@ -1,4 +1,4 @@
-## 👋
+# 👋
 ### I’m a data scientist trying to make sense of our data pollution.
 
 ###  :key: Why data science?
