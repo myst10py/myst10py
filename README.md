@@ -10,6 +10,8 @@ The world has too many unanswered questions and challenges to leave this critica
 
 🔭 I’m currently working at Homer Learning, where we are trying to improve early learning outcomes for children with our mobile applications.
 
+🤖 Co creator of [PrivacyBot - A simple way to start exercising your privacy rights and delete your data from all the data brokers.](https://github.com/privacybot-berkeley/privacybot)
+
 🌱 I’m currently learning:
   - how to modularize and reuse my ds/ml tasks. 🔄
   - [DATA8 from Berkeley](https://inferentialthinking.com/index.html) 🔄
