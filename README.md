@@ -30,7 +30,7 @@ The world has too many unanswered questions and challenges to leave this critica
 
 [![Visits Badge](https://badges.pufler.dev/visits/austenmyers/austenmyers)](https://badges.pufler.dev)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austenmyers&layout=compact)](https://github.com/austenmyers/)
 
 <!--
 **austenmyers/austenmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
