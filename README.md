@@ -9,6 +9,9 @@ The world has too many unanswered questions and challenges to leave this critica
 
 🤖 Co creator of [PrivacyBot - A simple way to start exercising your privacy rights and delete your data from all the data brokers.](https://github.com/privacybot-berkeley/privacybot)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=privacybot-berkeley&repo=privacybot)](https://github.com/privacybot-berkeley/privacybot)
+
+
 🌱 I’m currently learning:
   - how to modularize and reuse my ds/ml tasks. 🔄
   - [DATA8 from Berkeley](https://inferentialthinking.com/index.html) 🔄
