@@ -7,9 +7,6 @@ The world has too many unanswered questions and challenges to leave this critica
 
 🔭 I’m currently working at Homer Learning, where we are trying to improve early learning outcomes for children with our mobile applications.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=privacybot-berkeley&repo=privacybot)](https://github.com/privacybot-berkeley/privacybot)
-
-
 🌱 I’m currently learning:
   - how to modularize and reuse my ds/ml tasks. 🔄
   - [DATA8 from Berkeley](https://inferentialthinking.com/index.html) 🔄
