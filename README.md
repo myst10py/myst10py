@@ -1,3 +1,5 @@
+<a href="https://www.austenmyers.com/"><img src="https://images.squarespace-cdn.com/content/v1/57e883cd3e00be6f7cefd97e/1477233123540-LLT9KCD8AQ6DVK0ORUKL/image-asset.jpeg?format=1500w" width=1500></a>
+
 ### 👋 I’m a data scientist trying to make sense of our data pollution.
 
 ###  :key: Why data science?
