@@ -18,8 +18,6 @@ The world has too many unanswered questions and challenges to leave this critica
   
   Key: &nbsp; ➡️: To Do &nbsp; 🔄: In progress &nbsp; ✅: Completed
   
-🤔 I’m looking for help with general data science tools and utlities that make pre processing and data transformations easier.
-
 💬 Ask me about data in general. i.e. How might we explore large challeges like climate change / education with data? No question is a dumb question.
 
 ---
