@@ -18,7 +18,7 @@ The world has too many unanswered questions and challenges to leave this critica
   
   Key: &nbsp; ➡️: To Do &nbsp; 🔄: In progress &nbsp; ✅: Completed
   
-💬 Ask me about data in general. i.e. How might we explore large challeges like climate change / education with data? No question is a dumb question.
+💬 Ask me about data in general. i.e. How might we explore large challeges like climate change / education with data?
 
 ---
 
