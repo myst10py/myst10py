@@ -3,4 +3,4 @@
 -->
 <a href="https://www.austenmyers.com/"><img src="https://media.giphy.com/media/gEvdDmahyF8U6UnB4i/source.gif?cid=ecf05e47uw71ucilsf7fdn8ity6dnmt4o068plrkd095ph50&rid=source.gif&ct=g" width=1500></a>
 
-### 👋 I’m a data scientist trying to make sense of our data pollution.
+### 👋 I like to work with data and attempt to make sense of our data pollution.
